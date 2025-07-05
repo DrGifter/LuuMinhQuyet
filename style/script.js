@@ -27,7 +27,7 @@ const texts = [
   "06.07.1998", //Day of birth
   "HAPPY BIRTHDAY", 
   "3 Years The End", 
-  "Cảm Ơn Vì Tất Cả Sự Cố Gắng"
+  "Cảm Ơn Vì Tất Cả"
 ];
 
 const BASE_DISPLAY_TIME = 3000;
